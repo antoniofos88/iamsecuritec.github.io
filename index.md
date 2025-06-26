@@ -1,10 +1,11 @@
----
-layout: default
-title: Bienvenue chez IAM Securitec
----
+<h1>Bienvenue chez IAM Securitec</h1>
+<p><strong>🔐 Spécialiste en authentification Azure, gestion des identités, Zero Trust, sécurité cloud.</strong></p>
 
-# IAM Securitec
-Spécialiste en authentification Azure, gestion des identités, Zero Trust, et sécurité cloud.
+<ul>
+  <li>✅ Intégration SSO (SAML, OAuth2, OpenID Connect)</li>
+  <li>✅ Sécurisation d'applications cloud avec Microsoft Entra ID</li>
+  <li>✅ Mise en œuvre de politiques Zero Trust et accès conditionnel</li>
+</ul>
 
-👉 Contactez-moi via [LinkedIn](https://www.linkedin.com/in/antoniofos)
+<p>📩 <a href="https://www.linkedin.com/in/antoniofos" target="_blank">Contactez-moi sur LinkedIn</a></p>
 
