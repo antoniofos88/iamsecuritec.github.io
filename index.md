@@ -11,3 +11,8 @@
       📩 <a href="https://www.linkedin.com/in/antoniofos" target="_blank">Contactez-moi sur LinkedIn</a>
     </p>
   </div>
+<div style="flex: 2; min-width: 300px;">
+    <h3>À propos de moi</h3>
+    <p>
+      Professionnel en sécurité informatique avec plus de 5 ans d'expérience en gestion des identités (IAM), sécurité cloud (Microsoft Entra ID, Azure), et authentification (SSO, SAML, OAuth2). Je conçois et intègre des solutions sécurisées adaptées aux environnements hybrides et infonuagiques.
+    </p>
