@@ -45,23 +45,41 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
   <h4>Mes certifications</h4>
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-top: 15px;">
-    
+
     <!-- AZ-900 -->
     <a href="https://learn.microsoft.com/fr-ca/users/antonioferreiradeoliveiradasilva-1975/credentials/1832f8e3facc24fb" 
        target="_blank" 
        style="text-align: center; text-decoration: none; color: inherit;">
       <img src="https://images.credly.com/size/340x340/images/fc196a73-050a-4f36-ae83-207bde7d23b4/image.png" 
-           style="height: 100px;" />
+           style="height: 100px;" alt="" />
       <div>AZ-900: Azure Fundamentals</div>
     </a>
 
-    <!-- SC-900 (Image GitHub) -->
+    <!-- SC-900 -->
     <a href="https://www.credly.com/badges/1d47131f-121b-4213-a9a1-c147eef73750" 
        target="_blank" 
        style="text-align: center; text-decoration: none; color: inherit;">
       <img src="https://raw.githubusercontent.com/TON-UTILISATEUR/TON-DEPOT/main/images/sc900.png" 
-           style="height: 100px;" />
+           style="height: 100px;" alt="" />
       <div>SC-900: Security, Compliance & Identity</div>
+    </a>
+
+    <!-- CIST -->
+    <a href="https://www.linkedin.com/in/antoniofos/details/certifications/1750979250908/single-media-viewer/?profileId=ACoAAAprHLgBilKSM9rCxtRHtjcFiZYE6dJ8vsM" 
+       target="_blank" 
+       style="text-align: center; text-decoration: none; color: inherit;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cybersecurity_Icon.png/240px-Cybersecurity_Icon.png" 
+           style="height: 100px;" alt="" />
+      <div>CIST: Certified Information Security Technician</div>
+    </a>
+
+    <!-- CIAM -->
+    <a href="https://www.linkedin.com/in/antoniofos/details/certifications/1750979290836/single-media-viewer/?profileId=ACoAAAprHLgBilKSM9rCxtRHtjcFiZYE6dJ8vsM" 
+       target="_blank" 
+       style="text-align: center; text-decoration: none; color: inherit;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Identity-verification-icon.png/240px-Identity-verification-icon.png" 
+           style="height: 100px;" alt="" />
+      <div>CIAM: Certified Identity and Access Manager</div>
     </a>
 
   </div>
@@ -72,4 +90,3 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
 
   <p style="margin-top: 10px; font-size: 12px; color: #aaa;">© 2025 IAM Securitec</p>
 </footer>
-
