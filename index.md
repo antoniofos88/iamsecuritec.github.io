@@ -34,7 +34,7 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
 
     <p style="margin-top: 20px;">
       📧 <strong>Contact :</strong> 
-      <a href="mailto:antoniofos88@gmail.com">antoniofos88@gmail.com</a><br>
+      <a href="mailto:iamsecuritec@gmail.com">iamsecuritec@gmail.com</a><br>
       🔗 <a href="https://www.linkedin.com/in/antoniofos" target="_blank">Mon profil LinkedIn</a>
     </p>
   </div>
