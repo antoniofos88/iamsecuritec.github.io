@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Bienvenue chez IAM Securitec</h1>
-<p style="text-align: center;"><strong>Spécialiste en authentification Azure, gestion des identités, Zero Trust, sécurité cloud.</strong></p>
+<p style="text-align: center;"><strong>Service offerts par IAM Securitec</strong></p>
 
 <hr style="margin: 40px auto; width: 60%; border: 1px solid #eee;">
 
