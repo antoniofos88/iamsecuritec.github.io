@@ -5,8 +5,6 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center; gap: 30px; max-width: 1000px; margin: 0 auto;">
 
-<hr style="margin: 40px auto; width: 60%; border: 1px solid #eee;">
-
 <h3 style="text-align: center;">Services offerts par IAM Securitec</h3>
 
 <p style="max-width: 800px; margin: 0 auto; text-align: center;">
