@@ -1,5 +1,5 @@
 <h1>Bienvenue chez IAM Securitec</h1>
-<p><strong>🔐 Spécialiste en authentification Azure, gestion des identités, Zero Trust, sécurité cloud.</strong></p>
+<p><strong> Spécialiste en authentification Azure, gestion des identités, Zero Trust, sécurité cloud.</strong></p>
 
 <ul>
   <li>✅ Intégration SSO (SAML, OAuth2, OpenID Connect)</li>
