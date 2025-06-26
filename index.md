@@ -17,11 +17,6 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
   <li>📊 Audits de sécurité et revue des autorisations applicatives</li>
   <li>⚙️ Automatisation des processus d’identité avec PowerShell et Graph API</li>
 </ul>
-
-<p style="text-align: center; margin-top: 20px;">
-📧 Pour discuter d’un projet ou d’une collaboration, contactez-moi par <a href="mailto:antoniofos88@gmail.com">courriel</a> ou sur <a href="https://www.linkedin.com/in/antoniofos" target="_blank">LinkedIn</a>.
-</p>
-
   
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="photo.jpg" alt="Photo Antonio Ferreira" style="width: 200px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
