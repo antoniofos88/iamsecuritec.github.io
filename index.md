@@ -34,3 +34,7 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
     <p>
       Professionnel en sécurité informatique avec plus de 5 ans d'expérience en gestion des identités (IAM), sécurité cloud (Microsoft Entra ID, Azure), et authentification (SSO, SAML, OAuth2). Je conçois et intègre des solutions sécurisées adaptées aux environnements hybrides et infonuagiques.
     </p>
+<p style="text-align: center; margin-top: 20px;">
+📧 Pour discuter d’un projet ou d’une collaboration, contactez-moi par <a href="mailto:antoniofos88@gmail.com">courriel</a> ou sur <a href="https://www.linkedin.com/in/antoniofos" target="_blank">LinkedIn</a>.
+</p>
+    
