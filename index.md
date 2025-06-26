@@ -21,8 +21,6 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="photo.jpg" alt="Photo Antonio Ferreira" style="width: 200px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
     <p style="margin-top: 15px;">
-      📩 <a href="https://www.linkedin.com/in/antoniofos" target="_blank">Contactez-moi sur LinkedIn</a>
-    </p>
   </div>
 <div style="flex: 2; min-width: 300px;">
     <h3>À propos de moi</h3>
