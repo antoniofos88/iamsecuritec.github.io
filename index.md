@@ -10,10 +10,10 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
 
 <ul style="max-width: 800px; margin: 20px auto;">
   <li>🔒 Intégration de solutions SSO (SAML, OAuth2, OpenID Connect)</li>
-  <li>🔐 Gestion des identités (Azure AD / Entra ID, RBAC, groupes dynamiques)</li>
-  <li>🛡️ Mise en œuvre de stratégies Zero Trust et accès conditionnel</li>
-  <li>📊 Audits de sécurité et revue des autorisations applicatives</li>
-  <li>⚙️ Automatisation des processus d’identité avec PowerShell et Graph API</li>
+  <li>🔐 Gestion des identités avec Microsoft Entra ID (Azure AD), RBAC, groupes dynamiques</li>
+  <li>🛡️ Mise en œuvre de stratégies Zero Trust et politiques d’accès conditionnel</li>
+  <li>📊 Audits de sécurité, évaluation des accès et revue des autorisations applicatives</li>
+  <li>⚙️ Automatisation IAM avec PowerShell et Microsoft Graph API</li>
 </ul>
 
 <hr style="margin: 40px auto; width: 60%; border: 1px solid #eee;">
@@ -29,13 +29,13 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
   <div style="flex: 2; min-width: 300px;">
     <h3>À propos de moi</h3>
     <p>
-      Professionnel en sécurité informatique avec plus de 5 ans d'expérience en gestion des identités (IAM), sécurité cloud (Microsoft Entra ID, Azure), et authentification (SSO, SAML, OAuth2). Je conçois et intègre des solutions sécurisées adaptées aux environnements hybrides et infonuagiques.
+      Spécialiste en sécurité informatique avec plus de 5 ans d'expérience dans la gestion des identités (IAM), la sécurité cloud (Microsoft Entra ID / Azure) et l’authentification (SSO, SAML, OAuth2). J’aide les organisations à concevoir et à mettre en œuvre des architectures sécurisées, efficaces et adaptées aux environnements hybrides et infonuagiques.
     </p>
 
-    <p style="text-align: left; margin-top: 20px;">
-      📧 Pour discuter d’un projet ou d’une collaboration, contactez-moi par 
-      <a href="mailto:antoniofos88@gmail.com">courriel</a> ou sur 
-      <a href="https://www.linkedin.com/in/antoniofos" target="_blank">LinkedIn</a>.
+    <p style="margin-top: 20px;">
+      📧 <strong>Contact :</strong> 
+      <a href="mailto:antoniofos88@gmail.com">antoniofos88@gmail.com</a><br>
+      🔗 <a href="https://www.linkedin.com/in/antoniofos" target="_blank">Mon profil LinkedIn</a>
     </p>
   </div>
 
@@ -64,5 +64,3 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
 
   <p style="margin-top: 10px; font-size: 12px; color: #aaa;">© 2025 IAM Securitec</p>
 </footer>
-
-
