@@ -46,7 +46,7 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
     <a href="https://www.credly.com/badges/8a9e3154-316f-4573-9c0a-dc9c0f0d7057" target="_blank">
-      <img src="https://images.credly.com/size/110x110/images/f0d37d7c-4df2-4b06-a5a5-94b1eb152673/image.png" alt="AZ-900" style="height: 70px;" />
+      <img src="https://www.credly.com/badges/1d47131f-121b-4213-a9a1-c147eef73750/image.png" alt="SC-900" style="height: 70px;" />
     </a>
     <a href="https://www.credly.com/badges/716b6e44-56e3-44bc-81b6-5e1055e04042" target="_blank">
       <img src="https://images.credly.com/size/110x110/images/0dfd0e91-5da3-4b8e-ada6-50cbd5cfa46c/image.png" alt="SC-900" style="height: 70px;" />
