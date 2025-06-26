@@ -35,3 +35,24 @@
     </ul>
   </div>
 </div>
+
+<hr style="margin: 40px auto; width: 60%; border: 1px solid #eee;">
+
+<h3 style="text-align: center;">Services offerts par IAM Securitec</h3>
+
+<p style="max-width: 800px; margin: 0 auto; text-align: center;">
+IAM Securitec est une entreprise individuelle spécialisée dans l’intégration et la sécurisation des identités numériques. Nous accompagnons les entreprises et les organismes publics dans la mise en place de solutions IAM robustes, conformes et adaptées à leur environnement technologique.
+</p>
+
+<ul style="max-width: 800px; margin: 20px auto;">
+  <li>🔒 Intégration de solutions SSO (SAML, OAuth2, OpenID Connect)</li>
+  <li>🔐 Gestion des identités (Azure AD / Entra ID, RBAC, groupes dynamiques)</li>
+  <li>🛡️ Mise en œuvre de stratégies Zero Trust et accès conditionnel</li>
+  <li>📊 Audits de sécurité et revue des autorisations applicatives</li>
+  <li>⚙️ Automatisation des processus d’identité avec PowerShell et Graph API</li>
+</ul>
+
+<p style="text-align: center; margin-top: 20px;">
+📧 Pour discuter d’un projet ou d’une collaboration, contactez-moi par <a href="mailto:antoniofos88@gmail.com">courriel</a> ou sur <a href="https://www.linkedin.com/in/antoniofos" target="_blank">LinkedIn</a>.
+</p>
+
