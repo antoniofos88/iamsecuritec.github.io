@@ -2,12 +2,6 @@
 
 <p style="text-align: center;"><strong>Spécialiste en authentification Azure, gestion des identités, Zero Trust, sécurité cloud.</strong></p>
 
-<ul style="max-width: 800px; margin: 0 auto;">
-  <li>✅ Intégration SSO (SAML, OAuth2, OpenID Connect)</li>
-  <li>✅ Sécurisation d'applications cloud avec Microsoft Entra ID</li>
-  <li>✅ Mise en œuvre de politiques Zero Trust et accès conditionnel</li>
-</ul>
-
 <hr style="margin: 40px auto; width: 60%; border: 1px solid #eee;">
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center; gap: 30px; max-width: 1000px; margin: 0 auto;">
