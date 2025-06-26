@@ -19,4 +19,21 @@ Professionnel en sécurité informatique avec plus de 5 ans d'expérience en ges
 </p>
 
 <p>📩 <a href="https://www.linkedin.com/in/antoniofos" target="_blank">Contactez-moi sur LinkedIn</a></p>
+
+<h3>Expertises</h3>
+<ul>
+  <li>🔐 IAM (Azure AD / Entra ID, MFA, RBAC)</li>
+  <li>🌐 Protocoles d’authentification : SAML, OAuth2, OpenID Connect</li>
+  <li>🛡️ Sécurité Cloud (Microsoft Azure, Zero Trust)</li>
+  <li>⚙️ Scripts PowerShell, API Graph</li>
+</ul>
+
+<h3>Solutions livrées</h3>
+<ul>
+  <li>🎯 Intégration de +100 applications avec SSO et MFA (Microsoft Entra ID)</li>
+  <li>⚙️ Automatisation de processus IAM avec PowerShell et Graph API</li>
+  <li>🔍 Mise en œuvre de politiques Zero Trust avec accès conditionnel</li>
+</ul>
+
+
   
