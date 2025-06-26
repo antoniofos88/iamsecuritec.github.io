@@ -47,12 +47,12 @@ IAM Securitec est une entreprise individuelle spécialisée dans l’intégratio
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-top: 15px;">
 
     <a href="https://learn.microsoft.com/fr-ca/users/antonioferreiradeoliveiradasilva-1975/credentials/1832f8e3facc24fb?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" style="text-align: center;">
-      <img src="https://images.credly.com/size/340x340/images/fc196a73-050a-4f36-ae83-207bde7d23b4/image.png" alt="AZ-900" style="height: 100px;" />
+      <img src="https://images.credly.com/size/340x340/images/fc196a73-050a-4f36-ae83-207bde7d23b4/image.png" style="height: 100px;" />
       <div>AZ-900: Azure Fundamentals</div>
     </a>
 
     <a href="https://www.credly.com/badges/1d47131f-121b-4213-a9a1-c147eef73750" target="_blank" style="text-align: center;">
-      <img src="https://images.credly.com/size/340x340/images/684c21e1-a7de-42a6-8ce6-4c72e6cbb117/image.png" alt="SC-900" style="height: 100px;" />
+      <img src="https://images.credly.com/size/340x340/images/684c21e1-a7de-42a6-8ce6-4c72e6cbb117/image.png" style="height: 100px;" />
       <div>SC-900: Security, Compliance & Identity</div>
     </a>
 
